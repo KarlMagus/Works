@@ -1,3 +1,2 @@
 # Works
-Proposed database for an e-commerce platform
-ER diagram to get a better idea
+Projects I have worked on as a Computer Science Engineer/AI-ML enthusiast/Chatbot Developer/Data Scientist
